@@ -40,7 +40,7 @@ ___
 ## 3.1 데이터 수집 계획
 ![제목 없음](https://user-images.githubusercontent.com/74234264/101741532-83654d80-3b0d-11eb-9de8-3399bcf1c1b4.png)
 #3.2 데이터 수집 과정
-## 3.2 데이터 수집 과정]
+## 3.2 데이터 수집 과정
 ![제목 없음](https://user-images.githubusercontent.com/74234264/101748018-5ca81680-3b0f-11eb-92fc-fdfa03a33eda.png)
 
 
