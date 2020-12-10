@@ -48,12 +48,12 @@ ___
 ## 4.1 데이터 분석 방법  
 ![제목 없음](https://user-images.githubusercontent.com/74234264/101749303-ec9a9000-3b10-11eb-9a24-9cdf676bc558.png)
 Colaboratorty를 활용하여 데이트 추출후 응용 프로그램 엑셀을 활용하여 데이터 정제  
-![제목 없음](https://user-images.githubusercontent.com/74234264/101749545-3a16fd00-3b11-11eb-8fe3-e07c94042e88.png)
+![제목 없음](https://user-images.githubusercontent.com/74234264/101749545-3a16fd00-3b11-11eb-8fe3-e07c94042e88.png)  
 분석한 형태소의 출현 빈도를 평균과 개수로 값을 계산하여 출현 빈도를 파악  
 #4.2 시각화데이터 분석
 ## 시각화데이터 분석
 ### 엑셀을 활용하여 데이터 시각화 진행
-![제목 없음](https://user-images.githubusercontent.com/74234264/101750141-f40e6900-3b11-11eb-8331-17da4cf26112.png)
+![제목 없음](https://user-images.githubusercontent.com/74234264/101750141-f40e6900-3b11-11eb-8331-17da4cf26112.png)  
 댓글을 형태소 분석을 하니 지엽적으로 세분화되는 문제점 발견  
 시각화 데이터를 통해 분석 방향을 탐색  
 ### 시각화 데이터를 통해 마블에서는 DC와 달리 특정 장면에 대한 언급이 많고, 이에 반해 DC는 영상미와 관련된 액션 cg등의 언급이 많음
