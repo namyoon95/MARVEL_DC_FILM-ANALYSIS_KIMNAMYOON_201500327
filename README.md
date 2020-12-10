@@ -38,5 +38,6 @@ ___
   
 #3.1 데이터 수집 계획  
 ## 3.1 데이터 수집 계획
-![제목 없음](https://user-images.githubusercontent.com/74234264/101738419-79415000-3b09-11eb-89fa-6b7f2fd4d40b.png)
+![제목 없음](https://user-images.githubusercontent.com/74234264/101741532-83654d80-3b0d-11eb-9de8-3399bcf1c1b4.png)
+
 
