@@ -67,7 +67,11 @@ Colaboratorty를 활용하여 데이트 추출후 응용 프로그램 엑셀을 
 ### 때문에 테이블 데이터 분석을 활용하여 CF영화의 영상미의 초점을 맞춰 비교 분석 방향 설정.  
 
 #시각화 데이터로 통해본 공통점과 차이점의 점진적 분석
-## 4.3 시각화 데이터로 통해본 공통점과 차이점의 점진적 분석
+## 4.3 시각화 데이터로 통해본 공통점과 차이점의 점진적 분석  
+![제목 없음](https://user-images.githubusercontent.com/74234264/101867338-3db48d80-3bbe-11eb-8827-c5cc1c7231d8.png)
+### 시각화 데이터로 분석 방향 설정
 ![제목 없음](https://user-images.githubusercontent.com/74234264/101752949-6d5b8b00-3b15-11eb-9d79-bd490b78d8de.png)
+### 테이블 데이터를 이용한 점진적 분석
+![제목 없음](https://user-images.githubusercontent.com/74234264/101867480-984de980-3bbe-11eb-9ac3-f832a48832d5.png)
 
 
