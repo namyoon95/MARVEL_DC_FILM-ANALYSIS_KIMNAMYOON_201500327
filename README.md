@@ -86,7 +86,8 @@ ___
 # 5. 최종 분석 결과 정리
 #최종 분석 결과 정리  
 
-![11111](https://user-images.githubusercontent.com/74234264/102581204-6a7b1e80-4143-11eb-9205-aea5e2864ac3.png)
+![11111](https://user-images.githubusercontent.com/74234264/102581811-a9f63a80-4144-11eb-9a84-72ff062a8fa6.png)
+
 
 
   
