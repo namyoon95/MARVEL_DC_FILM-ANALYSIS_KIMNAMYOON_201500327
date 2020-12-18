@@ -80,7 +80,8 @@ Colaboratorty를 활용하여 데이트 추출후 응용 프로그램 엑셀을 
  <dr>
  <dr>
 ## 4.4  데이터을 통한 히어로 분석
-![11111](https://user-images.githubusercontent.com/74234264/102580754-8205d780-4142-11eb-973f-88c126ab20c5.png)
+![11111](https://user-images.githubusercontent.com/74234264/102581987-03f70000-4145-11eb-88ef-d2a3fd26a9dc.png)
+
 ___
 
 # 5. 최종 분석 결과 정리
